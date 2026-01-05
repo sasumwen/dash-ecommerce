@@ -18,7 +18,7 @@ navbar_layout = dbc.Container(
                                 className="me-2"
                             ),
                             html.Span(
-                                "Budescode",
+                                "Sasumwen",
                                 className="fw-bold fs-5",
                                 style={"color": PRIMARY_COLOR_HEX}
                             ),
